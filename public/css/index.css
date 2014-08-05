@@ -60,9 +60,9 @@ body {
 ._element {
   clear: both;
   z-index: 1;
-  width: 70%;
+  width: 100%;
   height: 280px;
-  margin: 30px 0 0 15%;
+  margin:0;
   background-image: url('../images/logo.png');
   background-repeat: no-repeat;
   background-size: auto auto;
